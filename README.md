@@ -3,6 +3,7 @@ Terraform Provider for Rancher v2
 
 - Website: https://www.terraform.io
 - [![Gitter chat](https://badges.gitter.im/hashicorp-terraform/Lobby.png)](https://gitter.im/hashicorp-terraform/Lobby)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsyncier%2Fterraform-provider-rancher2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsyncier%2Fterraform-provider-rancher2?ref=badge_shield)
 - Mailing list: [Google Groups](http://groups.google.com/group/terraform-tool)
 
 <img src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="600px">
@@ -131,3 +132,7 @@ $ export RANCHER_URL=<URL>
 $ export RANCHER_TOKEN_KEY=<TOKEN>
 $ scripts/testacc
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsyncier%2Fterraform-provider-rancher2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsyncier%2Fterraform-provider-rancher2?ref=badge_large)
